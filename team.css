@@ -167,7 +167,10 @@ a{
     color: white;
     
 }
-.footerbox2 ul li  a img{
+.fsvg{
+    float: left;
+    height: 30px;
+    width: 30px;
     margin-right: 10px;
 }
 .box2head{
